@@ -276,7 +276,7 @@ iPhone、iPad、电视、路由器以及具体第三方客户端的当前兼容�
 - 强依赖尚未确认的客户端或路由器方案；
 - 只追求最低的每 GB 单价。
 
-**速网云官网：** <https://suwangyun.com/>
+**速网云官网：** <https://suwangyun.top/>
 
 [回到目录](#toc)
 
@@ -692,7 +692,7 @@ E-IX 的一次性年流量结构比较有辨识度。
 - 产品资料日期：2026-09-22
 - 资料包括月付套餐、支付规则、设备限制、VLESS / AnyTLS、自建客户端平台及线路 / 解锁能力说明
 - 正式购买仍以当前结算页为准
-- 官网：<https://suwangyun.com/>
+- 官网：<https://suwangyun.top/>
 
 ### Just My Socks
 
